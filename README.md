@@ -16,7 +16,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,19 +31,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![Solution Screenshot](./Screenshot 2021-08-13 at 01-23-01 Frontend Mentor Intro component with sign up form.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://rich15.github.io/signup-form-fEndMentor/)
+- [Solution URL](https://www.frontendmentor.io/solutions/signup-form-with-html-css-flexbox-javascript-and-media-queries-5p9O6ky4D)
+- [Live Site URL](https://rich15.github.io/signup-form-fEndMentor/)
 
 ## My process
 
@@ -61,8 +54,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 __This is my second Frontend Mentor Challenge!__  
 
 I started this challenge with all the HTML and CSS first. I learned to use the CSS `pre-line` property and practiced `line-height` with the main text. I had some trouble positioning everything at first, but then I figured it out. I also learned how to put a color filter on a background image.  
+
 After styling everything I started with the JS part. I'm not gonna lie, I struggled a lot and had to google many things, many times. I learned validation methods and properties and got to practice my DOM manipulation skills. I created a function that validated all inputs when the Submit button was clicked or when the input itself was changed. At the beggining it was very hard, but at the end I managed to solve all the problems I had, and learned a lot in the way. I'm happy with my JS code, though I think there's a way to make it cleaner (any help would be appreciated).  
+
 When the desktop version (1440px) was finished, it was time for **Media Queries**. If the JS was difficult, the Media Queries were a complete headache. I spent hours fixing display problems and changing design properties to make it fit most resolutions. I think it could have been done better, but I am new to this, and this is the best I could do for now (will try to improve it in the future).  
+
 I really liked this challenge cuz it was really ***challenging***. It helped me to learn lots of new things and to discover some weaknesses I have, as well as some abilities I could improve. It was a little stressful at times, but everytime I figured how to do something it felt amazing :)  
 
 ### Continued development
