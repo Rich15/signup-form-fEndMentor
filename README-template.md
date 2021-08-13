@@ -40,12 +40,11 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://rich15.github.io/signup-form-fEndMentor/)
 
 ## My process
 
@@ -53,62 +52,36 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Media Queries
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Javascript
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+__This is my second Frontend Mentor Challenge!__  
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I started this challenge with all the HTML and CSS first. I learned to use the CSS `pre-line` property and practiced `line-height` with the main text. I had some trouble positioning everything at first, but then I figured it out. I also learned how to put a color filter on a background image.  
+After styling everything I started with the JS part. I'm not gonna lie, I struggled a lot and had to google many things, many times. I learned validation methods and properties and got to practice my DOM manipulation skills. I created a function that validated all inputs when the Submit button was clicked or when the input itself was changed. At the beggining it was very hard, but at the end I managed to solve all the problems I had, and learned a lot in the way. I'm happy with my JS code, though I think there's a way to make it cleaner (any help would be appreciated).  
+When the desktop version (1440px) was finished, it was time for **Media Queries**. If the JS was difficult, the Media Queries were a complete headache. I spent hours fixing display problems and changing design properties to make it fit most resolutions. I think it could have been done better, but I am new to this, and this is the best I could do for now (will try to improve it in the future).  
+I really liked this challenge cuz it was really ***challenging***. It helped me to learn lots of new things and to discover some weaknesses I have, as well as some abilities I could improve. It was a little stressful at times, but everytime I figured how to do something it felt amazing :)  
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I want to keep using and practicing responsive design and Media Queries, because that was the thing I struggled the most.  
+I also want to expand my Flexbox and Grid knowledge and learn some design theory and UI/UX.  
+Backend coming soon too.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Javascript Form Validation (in spanish)](https://developer.mozilla.org/es/docs/Learn/Forms/Form_validation) - This really helped me to understand form validation and displaying error messages with javascript.
+- [Applying color overlay to a background image](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image/36679903) - This Stackoverflow post teached me to add a color filter to bg image.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Rich15](https://www.frontendmentor.io/profile/Rich15)
+- Twitter - [@rich_osio](https://www.twitter.com/rich_osio)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Shootout to Mozilla Developer and all the Stack Overflow community :D
