@@ -24,14 +24,14 @@ body {
 }
 
   #message h1 {
-    font-size: 2.7rem;
+    font-size: 3rem;
     font-weight: 700;
     width: 100%;
     line-height: 1.1;
   }
 
   #message p {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     font-weight: 500;
     white-space: pre-line;
   }
@@ -190,6 +190,10 @@ body {
       margin: 25px;
       text-align: center;
     }
+      
+      #message h1 {
+        font-size: 2rem;
+      }
 
     #sign {
       position: relative;
