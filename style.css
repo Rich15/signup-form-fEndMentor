@@ -91,10 +91,6 @@ body {
             border: 0.1px solid hsl(248, 32%, 49%);
           }
 
-          .input:invalid {
-            border: 1px solid hsl(0, 100%, 74%);
-            content: "";
-          }
 
         #submit {
           padding: 10px 15px;
