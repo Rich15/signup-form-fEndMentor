@@ -6,7 +6,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,15 +28,11 @@ Users should be able to:
   - Any `input` field is empty. The message for this error should say *"[Field Name] cannot be empty"*
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Looks like this is not an email"*
 
-### Screenshot
-
-![Solution Screenshot](./Screenshot 2021-08-13 at 01-23-01 Frontend Mentor Intro component with sign up form.png)
-
-
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/signup-form-with-html-css-flexbox-javascript-and-media-queries-5p9O6ky4D)
 - [Live Site URL](https://rich15.github.io/signup-form-fEndMentor/)
+
 
 ## My process
 
@@ -71,6 +66,7 @@ Backend coming soon too.
 
 - [Javascript Form Validation (in spanish)](https://developer.mozilla.org/es/docs/Learn/Forms/Form_validation) - This really helped me to understand form validation and displaying error messages with javascript.
 - [Applying color overlay to a background image](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image/36679903) - This Stackoverflow post teached me to add a color filter to bg image.
+
 
 ## Author
 
